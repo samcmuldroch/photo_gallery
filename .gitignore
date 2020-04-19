@@ -21,3 +21,8 @@ photo_app/.env.production.local
 photo_app/npm-debug.log*
 photo_app/yarn-debug.log*
 photo_app/yarn-error.log*
+
+#api
+api/database.pyc
+api/utility.pyc
+api/import.pyc
