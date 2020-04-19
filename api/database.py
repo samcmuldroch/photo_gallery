@@ -4,7 +4,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.types import DateTime
 
-engine = create_engine('sqlite:////tmp/test.db', echo=True)
+engine = create_engine('sqlite:////tmp/photos.db', echo=True)
 Base = declarative_base(bind=engine)
 
 def get_session():
