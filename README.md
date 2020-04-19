@@ -14,7 +14,7 @@ Sydney McMuldroch
 - `npm install`
 - `npm start`
 
-_Note -- not complete, but this is what I could accomplished in the time frame :)_
+_Note -- not complete, but this is what I could accomplish in the time frame... :)_
 
 ### What it should look like
 ![Example 1](example1.png)
